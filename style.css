@@ -1,0 +1,33 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 0;
+}
+
+div {
+    width: 600px;
+}
+
+#name {
+    height: 25px;
+    width: 300px;
+    float: right;
+    border: 1px solid lightgray;
+    margin-bottom: 10px
+}
+
+#woman {
+    float: ;
+
+}
+
+#email {
+    float: right;
+    height: 25px;
+    width: 300px;
+    border: 1px solid red;
+}
+
+b {
+    color: red;
+}
+
